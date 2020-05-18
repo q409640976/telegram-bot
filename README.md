@@ -12,3 +12,6 @@
    发一串数字给你，那就是token
   
   
+<br>
+  ***2**：打开你的域名（必须https）： 设置webhook<bR>
+  https://域名/bot.php?setwebhook=true&token=你的token
